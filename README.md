@@ -1,5 +1,5 @@
 - 👋 Hi, My boat's name is @Sorhenn
-- 👀 I’m interested in pypilot to have a cup of cofeee safe.
+- 👀 I’m interested in pypilot to have a cup of coffee safe.
 - 🌱 I’m currently learning how to do it
 - 💞️ I’m looking to collaborate on parameters and french translation
 
